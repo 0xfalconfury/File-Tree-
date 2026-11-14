@@ -23,7 +23,8 @@ Both scripts are idempotent — safe to run multiple times. It won't overwrite e
 Built with a **liquid glass UI** over a **cyberpunk neon skyline** background, with floating gold orbs, particle repulsion, and spring-eased micro-interactions. Designed to feel as good as it works.
 
 ---
-
+## Image
+<img src="./images/1.png" style="height:300px">
 ## 🚀 Features
 
 ### Core
